@@ -1,0 +1,177 @@
+{
+  "manga": {
+    "title": "Midari ni Tsukasete wa Narimasen",
+    "alternativeTitle": "みだりに憑かせてはなりません",
+    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/midari-ni-tsukasete-wa-narimasen-d86648a6-77d3-4a95-a8d2-b296da206065.jpg",
+    "description": "Tamotsu Sugawara, seorang karyawan yang tidak bisa menolak permintaan apa pun, mendapati dirinya tidak bisa lagi pergi ke kantor dan memutuskan untuk beristirahat sementara di kuil keluarganya. Suatu malam, hantu yang sangat mirip dengan Makoto Hiiragi, seorang mahasiswi yang bekerja part time di kuil itu pada siang hari, muncul di hadapannya. Komedi romantis yang terinspirasi dari horor ini menghubungkan mantan karyawan yang ngga bisa bilang tidak (yes-man) dengan mahasiswi yang dicurigai sebagai arwah hidup (!?) ♡",
+    "author": "Kurita Aguri",
+    "artist": "Kurita Aguri",
+    "genre": [
+      "Drama",
+      "Shounen",
+      "Supernatural",
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "status": "Ongoing",
+    "views": 0,
+    "links": {
+      "mangadex": "https://mangadex.org/title/3076dc1f-e6f2-418c-baa9-125694eb36cc/midari-ni-tsukasete-wa-narimasen",
+      "raw": "https://comic-walker.com/detail/KC_006109_S"
+    },
+    "repoUrl": "https://raw.githubusercontent.com/nurananto/Midari/main/",
+    "imagePrefix": "Image",
+    "imageFormat": "jpg",
+    "lockedChapters": [
+      "13"
+    ]
+  },
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "folder": "1",
+      "pages": 26,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "7": {
+      "title": "Chapter 7",
+      "folder": "7",
+      "pages": 20,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "8": {
+      "title": "Chapter 8",
+      "folder": "8",
+      "pages": 20,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "9": {
+      "title": "Chapter 9",
+      "folder": "9",
+      "pages": 17,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "10": {
+      "title": "Chapter 10",
+      "folder": "10",
+      "pages": 18,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "11": {
+      "title": "Chapter 11",
+      "folder": "11",
+      "pages": 16,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "12": {
+      "title": "Chapter 12",
+      "folder": "12",
+      "pages": 16,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "13": {
+      "title": "Chapter 13",
+      "folder": "13",
+      "pages": 0,
+      "views": 0,
+      "uploadDate": null,
+      "locked": true
+    },
+    "2.1": {
+      "title": "Chapter 2.1",
+      "folder": "2.1",
+      "pages": 9,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "2.2": {
+      "title": "Chapter 2.2",
+      "folder": "2.2",
+      "pages": 22,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "3.1": {
+      "title": "Chapter 3.1",
+      "folder": "3.1",
+      "pages": 19,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "3.2": {
+      "title": "Chapter 3.2",
+      "folder": "3.2",
+      "pages": 9,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "4.1": {
+      "title": "Chapter 4.1",
+      "folder": "4.1",
+      "pages": 9,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "4.2": {
+      "title": "Chapter 4.2",
+      "folder": "4.2",
+      "pages": 9,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "5.1": {
+      "title": "Chapter 5.1",
+      "folder": "5.1",
+      "pages": 9,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "5.2": {
+      "title": "Chapter 5.2",
+      "folder": "5.2",
+      "pages": 7,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "6.1": {
+      "title": "Chapter 6.1",
+      "folder": "6.1",
+      "pages": 9,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    },
+    "6.2": {
+      "title": "Chapter 6.2",
+      "folder": "6.2",
+      "pages": 10,
+      "views": 0,
+      "uploadDate": "2025-10-23",
+      "locked": false
+    }
+  },
+  "lastUpdated": "2025-10-23T18:06:47.809Z"
+}
