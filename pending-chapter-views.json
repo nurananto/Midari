@@ -1,8 +1,8 @@
 {
   "chapters": {
     "1": {
-      "pendingViews": 6,
-      "lastIncrement": "2025-10-25T15:57:33.486Z",
+      "pendingViews": 10,
+      "lastIncrement": "2025-10-27T11:26:36.038Z",
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "7": {
@@ -26,14 +26,14 @@
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "11": {
-      "pendingViews": 1,
-      "lastIncrement": "2025-10-25T16:04:02.448Z",
+      "pendingViews": 2,
+      "lastIncrement": "2025-10-26T19:17:54.293Z",
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "12": {
-      "pendingViews": 6,
-      "lastIncrement": "2025-10-26T09:26:35.506Z",
-      "lastUpdate": "2025-10-23T18:06:47.857Z"
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-26T19:18:18.685Z",
+      "lastUpdate": "2025-10-27T02:04:57.518Z"
     },
     "13": {
       "pendingViews": 0,
@@ -41,38 +41,38 @@
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "2.1": {
-      "pendingViews": 0,
-      "lastIncrement": "2025-10-23T18:06:47.857Z",
+      "pendingViews": 3,
+      "lastIncrement": "2025-10-27T13:40:07.983Z",
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "2.2": {
-      "pendingViews": 0,
-      "lastIncrement": "2025-10-23T18:06:47.857Z",
+      "pendingViews": 2,
+      "lastIncrement": "2025-10-27T13:41:15.395Z",
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "3.1": {
-      "pendingViews": 0,
-      "lastIncrement": "2025-10-23T18:06:47.857Z",
+      "pendingViews": 2,
+      "lastIncrement": "2025-10-27T13:42:07.509Z",
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "3.2": {
-      "pendingViews": 0,
-      "lastIncrement": "2025-10-23T18:06:47.857Z",
+      "pendingViews": 3,
+      "lastIncrement": "2025-10-27T15:02:10.339Z",
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "4.1": {
-      "pendingViews": 0,
-      "lastIncrement": "2025-10-23T18:06:47.857Z",
+      "pendingViews": 2,
+      "lastIncrement": "2025-10-27T15:02:31.654Z",
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "4.2": {
-      "pendingViews": 0,
-      "lastIncrement": "2025-10-23T18:06:47.857Z",
+      "pendingViews": 1,
+      "lastIncrement": "2025-10-27T15:02:53.039Z",
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "5.1": {
-      "pendingViews": 0,
-      "lastIncrement": "2025-10-23T18:06:47.857Z",
+      "pendingViews": 1,
+      "lastIncrement": "2025-10-27T15:03:11.724Z",
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     },
     "5.2": {
@@ -91,5 +91,5 @@
       "lastUpdate": "2025-10-23T18:06:47.857Z"
     }
   },
-  "lastUpdated": "2025-10-26T09:26:35.507Z"
+  "lastUpdated": "2025-10-27T15:03:11.729Z"
 }
