@@ -2,75 +2,181 @@
   "chapters": [
     {
       "title": "Chapter 13",
+      "folder": "13",
+      "pages": 0,
+      "views": 0,
+      "uploadDate": "2025-10-26",
       "locked": true
     },
     {
-      "title": "Chapter 12",
-      "locked": false
-    },
-    {
-      "title": "Chapter 11",
-      "locked": false
-    },
-    {
-      "title": "Chapter 10",
-      "locked": false
-    },
-    {
-      "title": "Chapter 9",
-      "locked": false
-    },
-    {
-      "title": "Chapter 8",
-      "locked": false
-    },
-    {
-      "title": "Chapter 7",
-      "locked": false
-    },
-    {
-      "title": "Chapter 6.2",
-      "locked": false
-    },
-    {
-      "title": "Chapter 6.1",
-      "locked": false
-    },
-    {
-      "title": "Chapter 5.2",
-      "locked": false
-    },
-    {
-      "title": "Chapter 5.1",
-      "locked": false
-    },
-    {
-      "title": "Chapter 4.2",
-      "locked": false
-    },
-    {
-      "title": "Chapter 4.1",
-      "locked": false
-    },
-    {
-      "title": "Chapter 3.2",
-      "locked": false
-    },
-    {
-      "title": "Chapter 3.1",
-      "locked": false
-    },
-    {
-      "title": "Chapter 2.2",
-      "locked": false
+      "title": "Chapter 1",
+      "chapter": 1.0,
+      "folder": "1",
+      "uploadDate": "2025-10-26",
+      "totalPages": 26,
+      "pages": 26,
+      "locked": false,
+      "views": 0
     },
     {
       "title": "Chapter 2.1",
-      "locked": false
+      "chapter": 2.1,
+      "folder": "2.1",
+      "uploadDate": "2025-10-26",
+      "totalPages": 9,
+      "pages": 9,
+      "locked": false,
+      "views": 0
     },
     {
-      "title": "Chapter 1",
-      "locked": false
+      "title": "Chapter 2.2",
+      "chapter": 2.2,
+      "folder": "2.2",
+      "uploadDate": "2025-10-26",
+      "totalPages": 22,
+      "pages": 22,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 3.1",
+      "chapter": 3.1,
+      "folder": "3.1",
+      "uploadDate": "2025-10-26",
+      "totalPages": 19,
+      "pages": 19,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 3.2",
+      "chapter": 3.2,
+      "folder": "3.2",
+      "uploadDate": "2025-10-26",
+      "totalPages": 9,
+      "pages": 9,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 4.1",
+      "chapter": 4.1,
+      "folder": "4.1",
+      "uploadDate": "2025-10-26",
+      "totalPages": 9,
+      "pages": 9,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 4.2",
+      "chapter": 4.2,
+      "folder": "4.2",
+      "uploadDate": "2025-10-26",
+      "totalPages": 9,
+      "pages": 9,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 5.1",
+      "chapter": 5.1,
+      "folder": "5.1",
+      "uploadDate": "2025-10-26",
+      "totalPages": 9,
+      "pages": 9,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 5.2",
+      "chapter": 5.2,
+      "folder": "5.2",
+      "uploadDate": "2025-10-26",
+      "totalPages": 7,
+      "pages": 7,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 6.1",
+      "chapter": 6.1,
+      "folder": "6.1",
+      "uploadDate": "2025-10-26",
+      "totalPages": 9,
+      "pages": 9,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 6.2",
+      "chapter": 6.2,
+      "folder": "6.2",
+      "uploadDate": "2025-10-26",
+      "totalPages": 10,
+      "pages": 10,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 7",
+      "chapter": 7.0,
+      "folder": "7",
+      "uploadDate": "2025-10-26",
+      "totalPages": 20,
+      "pages": 20,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 8",
+      "chapter": 8.0,
+      "folder": "8",
+      "uploadDate": "2025-10-26",
+      "totalPages": 20,
+      "pages": 20,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 9",
+      "chapter": 9.0,
+      "folder": "9",
+      "uploadDate": "2025-10-26",
+      "totalPages": 17,
+      "pages": 17,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 10",
+      "chapter": 10.0,
+      "folder": "10",
+      "uploadDate": "2025-10-26",
+      "totalPages": 18,
+      "pages": 18,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 11",
+      "chapter": 11.0,
+      "folder": "11",
+      "uploadDate": "2025-10-26",
+      "totalPages": 16,
+      "pages": 16,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 12",
+      "chapter": 12.0,
+      "folder": "12",
+      "uploadDate": "2025-10-26",
+      "totalPages": 16,
+      "pages": 16,
+      "locked": false,
+      "views": 18
     }
   ]
 }
