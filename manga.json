@@ -23,9 +23,7 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/Midari/main/",
     "imagePrefix": "Image",
     "imageFormat": "jpg",
-    "lockedChapters": [
-      "13"
-    ]
+    "lockedChapters": []
   },
   "chapters": {
     "1": {
@@ -97,16 +95,6 @@
       "pages": 16,
       "locked": false,
       "views": 37
-    },
-    "13": {
-      "title": "Chapter 13",
-      "chapter": 13,
-      "folder": "13",
-      "uploadDate": "2025-11-07T09:14:00+07:00",
-      "totalPages": 0,
-      "pages": 0,
-      "locked": true,
-      "views": 5
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -209,6 +197,6 @@
       "views": 3
     }
   },
-  "lastUpdated": "2025-11-08T09:02:05+07:00",
-  "lastChapterUpdate": "2025-11-07T09:14:00+07:00"
+  "lastUpdated": "2025-11-08T20:57:47+07:00",
+  "lastChapterUpdate": "2025-10-16T04:34:50+07:00"
 }
