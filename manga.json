@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 76,
+    "views": 91,
     "links": {
       "mangadex": "https://mangadex.org/title/3076dc1f-e6f2-418c-baa9-125694eb36cc/midari-ni-tsukasete-wa-narimasen",
       "raw": "https://comic-walker.com/detail/KC_006109_S"
@@ -36,7 +36,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 10
+      "views": 14
     },
     "7": {
       "title": "Chapter 7",
@@ -46,7 +46,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 0
+      "views": 4
     },
     "8": {
       "title": "Chapter 8",
@@ -56,7 +56,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 0
+      "views": 5
     },
     "9": {
       "title": "Chapter 9",
@@ -66,7 +66,7 @@
       "totalPages": 17,
       "pages": 17,
       "locked": false,
-      "views": 0
+      "views": 5
     },
     "10": {
       "title": "Chapter 10",
@@ -76,7 +76,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 0
+      "views": 4
     },
     "11": {
       "title": "Chapter 11",
@@ -86,7 +86,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 0
+      "views": 5
     },
     "12": {
       "title": "Chapter 12",
@@ -96,7 +96,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 29
+      "views": 37
     },
     "13": {
       "title": "Chapter 13",
@@ -106,7 +106,7 @@
       "totalPages": 0,
       "pages": 0,
       "locked": true,
-      "views": 0
+      "views": 5
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -116,7 +116,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 0
+      "views": 4
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -126,7 +126,7 @@
       "totalPages": 22,
       "pages": 22,
       "locked": false,
-      "views": 0
+      "views": 3
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -136,7 +136,7 @@
       "totalPages": 19,
       "pages": 19,
       "locked": false,
-      "views": 0
+      "views": 3
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -146,7 +146,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 0
+      "views": 4
     },
     "4.1": {
       "title": "Chapter 4.1",
@@ -156,7 +156,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 0
+      "views": 4
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -166,7 +166,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 0
+      "views": 2
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -176,7 +176,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 0
+      "views": 2
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -186,7 +186,7 @@
       "totalPages": 7,
       "pages": 7,
       "locked": false,
-      "views": 0
+      "views": 2
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -196,7 +196,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 0
+      "views": 2
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -206,9 +206,9 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 0
+      "views": 3
     }
   },
-  "lastUpdated": "2025-11-07T09:14:00+07:00",
-  "lastChapterUpdate": "2025-10-16T04:34:50+07:00"
+  "lastUpdated": "2025-11-08T09:02:05+07:00",
+  "lastChapterUpdate": "2025-11-07T09:14:00+07:00"
 }
