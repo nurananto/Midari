@@ -3,12 +3,14 @@
   "upload_date": "2025-11-27 23:06:47",
   "total_pages": 7,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/Midari/5.2/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/Midari/5.2/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/Midari/5.2/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/Midari/5.2/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/Midari/5.2/Image05.webp",
-    "https://cdn.nuranantoscans.my.id/Midari/5.2/Image06.webp",
-    "https://cdn.nuranantoscans.my.id/Midari/5.2/Image07.webp"
-  ]
+    "95061b5799ab472740d895c425a81cef:666621dc156133ee91c99788f803ebb3a748d3de14142f5c2a7590a7e14fe0fdfd7ca834bed6660a02bc58f916f276e4c428a4511d561bf6edf3157523e887f2",
+    "b48e126a97d5655728ef4cd6082f259c:106eb8add5ed09e223b1bac1543958905c3e8fd7ce3a0500e5c4597a132de2e0541a708ecec5fceeadbdc2e92b788a77f52532ec1c36d107bff1825c1e85f96c",
+    "662eb60116ef979d5da8f8f35ca6992a:d8c2629024f26f3212a2aa2e7836318407404821e963f0adbc9fe183bbe6c546f1fa3e8ac16db07e8ba8a3bef5d80f7eaa03913a27e67675ade9c9e05131126a",
+    "6a4d571480c698a2e55c0a28f25e3328:4626144af53722d44db400c930911a62830e47ddb780692a1cbc3268ed7ed59284f6296ca5bd1ab09158a60d06b711b3b9ebe0238848986cf15cf74a222f24c5",
+    "5c0b89a92dfa16e79b8845854cf69885:e4edec47b24db6dc5a55cc47c15113a44e7e029f597b287f93840deabb672ea3cb5235c07966f07002a5148b65464ce347e5559d5612a8bf694bb8a3188557d7",
+    "b59919dfc4249c31b79573f9e3ad6a22:87e38592b66806b9a313bae0559294c6dac947ba76ff7f3702d0a1229d116a7bf270ec3931b59c4acb2ddf5b51985c26af23b5d5605fe39dbcd83e8342307e20",
+    "63e80d3c36c172905ede3641c4f99a47:294d126532dadd481ca9069367602eed93ec5528d6fb14ddfceca815af3b52a5a801728182efe5319c3c5bf582e687ecaab5591749bc0f70fc9b33f5a3c81393"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
