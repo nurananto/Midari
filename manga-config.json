@@ -1,4 +1,5 @@
 {
+  "type": "manga",
   "title": "Midari ni Tsukasete wa Narimasen",
   "alternativeTitle": "みだりに憑かせてはなりません",
   "cover": "https://cdn.nuranantoscans.my.id/covers/midari-d86648a6-77d3-4a95-a8d2-b296da206065.webp",
@@ -13,7 +14,8 @@
     "Romance",
     "Slice of Life"
   ],
-  "status": "Ongoing",
+  "status": "ONGOING",
+  "endChapter": null,
   "views": 0,
   "links": {
     "mangadex": "https://mangadex.org/title/3076dc1f-e6f2-418c-baa9-125694eb36cc/midari-ni-tsukasete-wa-narimasen",
