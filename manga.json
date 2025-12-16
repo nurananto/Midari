@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 125,
+    "views": 138,
     "links": {
       "mangadex": "https://mangadex.org/title/3076dc1f-e6f2-418c-baa9-125694eb36cc/midari-ni-tsukasete-wa-narimasen",
       "raw": "https://comic-walker.com/detail/KC_006109_S"
@@ -35,7 +35,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 24
+      "views": 25
     },
     "7": {
       "title": "Chapter 7",
@@ -45,7 +45,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 6
+      "views": 7
     },
     "8": {
       "title": "Chapter 8",
@@ -55,7 +55,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 7
+      "views": 8
     },
     "9": {
       "title": "Chapter 9",
@@ -65,7 +65,7 @@
       "totalPages": 17,
       "pages": 17,
       "locked": false,
-      "views": 8
+      "views": 9
     },
     "10": {
       "title": "Chapter 10",
@@ -75,7 +75,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 9
+      "views": 10
     },
     "11": {
       "title": "Chapter 11",
@@ -85,7 +85,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 19
+      "views": 20
     },
     "12": {
       "title": "Chapter 12",
@@ -95,7 +95,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 47
+      "views": 49
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -105,7 +105,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 15
+      "views": 17
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -185,7 +185,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 6
+      "views": 7
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -195,9 +195,9 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 6
+      "views": 7
     }
   },
-  "lastUpdated": "2025-12-16T00:21:58+07:00",
+  "lastUpdated": "2025-12-17T00:21:04+07:00",
   "lastChapterUpdate": "2025-11-27T23:09:16+07:00"
 }
