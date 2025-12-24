@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 172,
+    "views": 175,
     "links": {
       "mangadex": "https://mangadex.org/title/3076dc1f-e6f2-418c-baa9-125694eb36cc/midari-ni-tsukasete-wa-narimasen",
       "raw": "https://comic-walker.com/detail/KC_006109_S"
@@ -85,7 +85,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 24
+      "views": 25
     },
     "12": {
       "title": "Chapter 12",
@@ -95,7 +95,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 61
+      "views": 62
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -198,6 +198,6 @@
       "views": 10
     }
   },
-  "lastUpdated": "2025-12-24T00:17:30+07:00",
+  "lastUpdated": "2025-12-25T00:14:23+07:00",
   "lastChapterUpdate": "2025-11-27T23:09:16+07:00"
 }
