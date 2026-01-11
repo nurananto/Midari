@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 213,
+    "views": 214,
     "links": {
       "mangadex": "https://mangadex.org/title/3076dc1f-e6f2-418c-baa9-125694eb36cc/midari-ni-tsukasete-wa-narimasen",
       "raw": "https://comic-walker.com/detail/KC_006109_S"
@@ -95,7 +95,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 83
+      "views": 84
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -105,7 +105,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 37
+      "views": 38
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -115,7 +115,7 @@
       "totalPages": 22,
       "pages": 22,
       "locked": false,
-      "views": 25
+      "views": 26
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -125,7 +125,7 @@
       "totalPages": 19,
       "pages": 19,
       "locked": false,
-      "views": 23
+      "views": 24
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -135,7 +135,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 25
+      "views": 26
     },
     "4.1": {
       "title": "Chapter 4.1",
@@ -145,7 +145,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 20
+      "views": 21
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -165,7 +165,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 19
+      "views": 20
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -185,7 +185,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 27
+      "views": 28
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -198,6 +198,6 @@
       "views": 18
     }
   },
-  "lastUpdated": "2026-01-11T00:14:31+07:00",
+  "lastUpdated": "2026-01-12T00:14:30+07:00",
   "lastChapterUpdate": "2025-11-27T23:09:16+07:00"
 }
