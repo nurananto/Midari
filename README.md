@@ -12,9 +12,7 @@
 | Judul Alternatif | みだりに憑かせてはなりません |
 | Author | Kurita Aguri |
 | Tipe | Manga (Hitam Putih) |
-| Status | Hiatus |
 | Genre | Drama · Shounen · Supernatural · Comedy · Romance · Slice of Life |
-| Chapter | 17 chapter |
 
 ## Link
 
