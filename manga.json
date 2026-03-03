@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "HIATUS",
-    "views": 310,
+    "views": 323,
     "links": {
       "mangadex": "https://mangadex.org/title/3076dc1f-e6f2-418c-baa9-125694eb36cc/midari-ni-tsukasete-wa-narimasen",
       "raw": "https://comic-walker.com/detail/KC_006109_S"
@@ -35,7 +35,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 63
+      "views": 65
     },
     "7": {
       "title": "Chapter 7",
@@ -105,7 +105,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 43
+      "views": 45
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -115,7 +115,7 @@
       "totalPages": 22,
       "pages": 22,
       "locked": false,
-      "views": 28
+      "views": 30
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -125,7 +125,7 @@
       "totalPages": 19,
       "pages": 19,
       "locked": false,
-      "views": 26
+      "views": 28
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -198,6 +198,6 @@
       "views": 19
     }
   },
-  "lastUpdated": "2026-03-02T19:00:38.318Z",
+  "lastUpdated": "2026-03-03T17:11:00.851Z",
   "lastChapterUpdate": "2025-11-27T23:09:16+07:00"
 }
